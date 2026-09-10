@@ -1,0 +1,6 @@
+{
+  "name": "Lokbharti AI Academic & ERP Copilot",
+  "description": "Smart Academic, Learning & University ERP Copilot v4.0 for Lokbharti University featuring Multi-Agent Architecture, RAG Document Intelligence, AI Exam Prep, Quiz Generator, Coding Tutor, Smart Attendance & Prediction, Voice AI, Multilingual Support, and Role-Based ERP Integration.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
